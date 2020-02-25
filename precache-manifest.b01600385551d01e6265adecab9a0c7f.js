@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bdd809cadcdfbc99371cce02674102ee",
+    "revision": "755f76adf0dacd2362283859e72a9bd1",
     "url": "/mw-battlepass-tracker/index.html"
   },
   {
-    "revision": "f8a1eb316a44f83eac57",
-    "url": "/mw-battlepass-tracker/static/css/main.9a58517b.chunk.css"
+    "revision": "80eb24ae05dae86e8824",
+    "url": "/mw-battlepass-tracker/static/css/main.c144860f.chunk.css"
   },
   {
     "revision": "778ac4b9ca4f753872e8",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mw-battlepass-tracker/static/js/2.1f2bd609.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f8a1eb316a44f83eac57",
-    "url": "/mw-battlepass-tracker/static/js/main.250169bf.chunk.js"
+    "revision": "80eb24ae05dae86e8824",
+    "url": "/mw-battlepass-tracker/static/js/main.ae07a0a5.chunk.js"
   },
   {
     "revision": "c3a2463f15e963567a1c",

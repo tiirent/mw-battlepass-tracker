@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/mw-battlepass-tracker/static/css/main.9a58517b.chunk.css",
-    "main.js": "/mw-battlepass-tracker/static/js/main.250169bf.chunk.js",
-    "main.js.map": "/mw-battlepass-tracker/static/js/main.250169bf.chunk.js.map",
+    "main.css": "/mw-battlepass-tracker/static/css/main.c144860f.chunk.css",
+    "main.js": "/mw-battlepass-tracker/static/js/main.ae07a0a5.chunk.js",
+    "main.js.map": "/mw-battlepass-tracker/static/js/main.ae07a0a5.chunk.js.map",
     "runtime-main.js": "/mw-battlepass-tracker/static/js/runtime-main.217bd898.js",
     "runtime-main.js.map": "/mw-battlepass-tracker/static/js/runtime-main.217bd898.js.map",
     "static/js/2.1f2bd609.chunk.js": "/mw-battlepass-tracker/static/js/2.1f2bd609.chunk.js",
     "static/js/2.1f2bd609.chunk.js.map": "/mw-battlepass-tracker/static/js/2.1f2bd609.chunk.js.map",
     "index.html": "/mw-battlepass-tracker/index.html",
-    "precache-manifest.adf8e1ccdd299fea41096d78a19b2cff.js": "/mw-battlepass-tracker/precache-manifest.adf8e1ccdd299fea41096d78a19b2cff.js",
+    "precache-manifest.b01600385551d01e6265adecab9a0c7f.js": "/mw-battlepass-tracker/precache-manifest.b01600385551d01e6265adecab9a0c7f.js",
     "service-worker.js": "/mw-battlepass-tracker/service-worker.js",
-    "static/css/main.9a58517b.chunk.css.map": "/mw-battlepass-tracker/static/css/main.9a58517b.chunk.css.map",
+    "static/css/main.c144860f.chunk.css.map": "/mw-battlepass-tracker/static/css/main.c144860f.chunk.css.map",
     "static/js/2.1f2bd609.chunk.js.LICENSE.txt": "/mw-battlepass-tracker/static/js/2.1f2bd609.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.217bd898.js",
     "static/js/2.1f2bd609.chunk.js",
-    "static/css/main.9a58517b.chunk.css",
-    "static/js/main.250169bf.chunk.js"
+    "static/css/main.c144860f.chunk.css",
+    "static/js/main.ae07a0a5.chunk.js"
   ]
 }
