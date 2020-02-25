@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mw-battlepass-tracker/precache-manifest.23ed90a661e33f2293ae3f55e85e8d20.js"
+  "/mw-battlepass-tracker/precache-manifest.adf8e1ccdd299fea41096d78a19b2cff.js"
 );
 
 self.addEventListener('message', (event) => {
