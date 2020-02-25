@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "755f76adf0dacd2362283859e72a9bd1",
+    "revision": "56ac0030fb66c22d8d354bafe9991fdd",
     "url": "/mw-battlepass-tracker/index.html"
   },
   {
