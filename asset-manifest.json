@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/mw-battlepass-tracker/static/css/main.c144860f.chunk.css",
-    "main.js": "/mw-battlepass-tracker/static/js/main.ae07a0a5.chunk.js",
-    "main.js.map": "/mw-battlepass-tracker/static/js/main.ae07a0a5.chunk.js.map",
+    "main.css": "/mw-battlepass-tracker/static/css/main.613ced06.chunk.css",
+    "main.js": "/mw-battlepass-tracker/static/js/main.fbe4fafd.chunk.js",
+    "main.js.map": "/mw-battlepass-tracker/static/js/main.fbe4fafd.chunk.js.map",
     "runtime-main.js": "/mw-battlepass-tracker/static/js/runtime-main.217bd898.js",
     "runtime-main.js.map": "/mw-battlepass-tracker/static/js/runtime-main.217bd898.js.map",
-    "static/js/2.1f2bd609.chunk.js": "/mw-battlepass-tracker/static/js/2.1f2bd609.chunk.js",
-    "static/js/2.1f2bd609.chunk.js.map": "/mw-battlepass-tracker/static/js/2.1f2bd609.chunk.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/mw-battlepass-tracker/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.3f0b0655.chunk.js": "/mw-battlepass-tracker/static/js/2.3f0b0655.chunk.js",
+    "static/js/2.3f0b0655.chunk.js.map": "/mw-battlepass-tracker/static/js/2.3f0b0655.chunk.js.map",
     "index.html": "/mw-battlepass-tracker/index.html",
-    "precache-manifest.111719e14421a00f1acccf8330e19fde.js": "/mw-battlepass-tracker/precache-manifest.111719e14421a00f1acccf8330e19fde.js",
+    "precache-manifest.b7019854d56c9d56979e202b357a53eb.js": "/mw-battlepass-tracker/precache-manifest.b7019854d56c9d56979e202b357a53eb.js",
     "service-worker.js": "/mw-battlepass-tracker/service-worker.js",
-    "static/css/main.c144860f.chunk.css.map": "/mw-battlepass-tracker/static/css/main.c144860f.chunk.css.map",
-    "static/js/2.1f2bd609.chunk.js.LICENSE.txt": "/mw-battlepass-tracker/static/js/2.1f2bd609.chunk.js.LICENSE.txt"
+    "static/css/2.47e06e2e.chunk.css.map": "/mw-battlepass-tracker/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.613ced06.chunk.css.map": "/mw-battlepass-tracker/static/css/main.613ced06.chunk.css.map",
+    "static/js/2.3f0b0655.chunk.js.LICENSE.txt": "/mw-battlepass-tracker/static/js/2.3f0b0655.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.217bd898.js",
-    "static/js/2.1f2bd609.chunk.js",
-    "static/css/main.c144860f.chunk.css",
-    "static/js/main.ae07a0a5.chunk.js"
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.3f0b0655.chunk.js",
+    "static/css/main.613ced06.chunk.css",
+    "static/js/main.fbe4fafd.chunk.js"
   ]
 }
