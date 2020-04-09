@@ -1,4 +1,5 @@
 import React from 'react';
+import ProgressBar from 'react-bootstrap/ProgressBar'
 
 var startDate = new Date(2020, 3, 8);
 var endDate = new Date(2020, 5, 3);
@@ -10,11 +11,13 @@ class Tracker extends React.Component {
       level: getLevel()
     }
   }
+
   render() {
     return (
       <div>
         <header>
           {this.state.level}
+          <TrackerBar />
         </header>
       </div>
     );
@@ -26,6 +29,23 @@ class Tracker extends React.Component {
 
   componentWillUnmount() {
     clearInterval(this.interval);
+  }
+}
+
+class TrackerBar extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      level: getLevel()
+    }
+  }
+
+  render() {
+    return (
+      <div>
+        <ProgressBar striped animated variant="dark" now = {this.state.level} />
+      </div>
+    );
   }
 }
 
