@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <p>
           Call of Duty: Modern Warfare Battlepass Tracker <br />
-          Season 2
+          Season 3
         </p>
         <Tracker />
       </header>
