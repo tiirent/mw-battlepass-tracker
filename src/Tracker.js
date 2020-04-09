@@ -1,7 +1,7 @@
 import React from 'react';
 
-var startDate = new Date(2020, 1, 11);
-var endDate = new Date(2020, 3, 7);
+var startDate = new Date(2020, 3, 8);
+var endDate = new Date(2020, 5, 3);
 
 class Tracker extends React.Component {
   constructor(props) {
